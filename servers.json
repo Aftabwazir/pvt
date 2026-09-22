@@ -193,18 +193,7 @@
     "use_file": 1,
     "free_connect_duration": 30,
     "connected_devices": 14
-  },
-  {
-    "id": 225,
-    "country_code": "au",
-    "city": "",
-    "ip": "36.255.205.12",
-    "protocol": "udp",
-    "port": 1194,
-    "vpn_username": "ncpbluevpnnet@namecheap",
-    "vpn_password": "ZVzImThSsx",
-    "is_free": 1,
-    "order": 13,
+  }
     "use_file": 0,
     "free_connect_duration": 0,
     "connected_devices": 0
